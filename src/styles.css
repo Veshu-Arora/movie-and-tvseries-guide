@@ -1,0 +1,20 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  /* padding: rem; */
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2015/12/17/the-vampire-diaries-tv-series-wallpaper.jpg");
+  /* background: url("https://www.itl.cat/pngfile/big/208-2084002_the-flash-tv-series-wallpaper-hd-fastest-man.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parent-genre-button {
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin: 10px;
+}
